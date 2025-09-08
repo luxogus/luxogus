@@ -9,6 +9,7 @@ I’m passionate about **leveraging technology to make a positive impact on soci
 I aspire to be a person who **sees the invisible and listens to the invisible**—someone who can provide warm support to those in need. I aim to be a **'moving programmer'**: understanding problems at their core and taking active steps to create solutions. Beyond coding, I dream of **imagining and contributing to a better, more equitable world**.  
 
 In short, I’m a curious and proactive learner, constantly seeking opportunities to **grow my skills while making a meaningful impact** on the world.
+
 ---
 
 ## 🛠 Tech Stack
